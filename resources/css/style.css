@@ -21,11 +21,15 @@ h1 {
 
 ul {
   list-style: none;
-  font-size: 18px;
+}
+
+li {
+  margin-bottom: 18px;
 }
 
 li a {
   color: white;
+  font-size: 18px;
 }
 
 h2 {
