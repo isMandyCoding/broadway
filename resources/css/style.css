@@ -1,5 +1,5 @@
 * {
-  font-family: Helvetic;
+  font-family: Helvetica;
   text-align: center;
 }
 
@@ -38,4 +38,10 @@ h3 {
 
 p {
   font-size: 14px;
+}
+
+.footer p {
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
 }
